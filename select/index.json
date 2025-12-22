@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "乙女よ大志を抱け！！",
+  "base_artist": "天海春香(CV:中村繪里子)",
+  "createdAt": "2025-12-22T08:25:21.690935Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "乙女よ大志を抱け！！",
+      "artist": "天海春香 (CV: 中村繪里子)",
+      "has_synced": true,
+      "path": "select/01_乙女よ大志を抱け!!_天海春香_(CV__中村繪里子).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "乙女よ大志を抱け!! [ORT]",
+      "artist": "天海春香 (CV: 中村繪里子)",
+      "has_synced": true,
+      "path": "select/02_乙女よ大志を抱け!!_[ORT]_天海春香_(CV__中村繪里子).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "乙女よ大志を抱け！！",
+      "artist": "天海春香",
+      "has_synced": true,
+      "path": "select/03_乙女よ大志を抱け!!_天海春香.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "乙女よ大志を抱け!!",
+      "artist": "天海春香",
+      "has_synced": true,
+      "path": "select/04_乙女よ大志を抱け!!_天海春香.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "乙女よ大志を抱け!!",
+      "artist": "天海春香 (CV:中村繪里子)",
+      "has_synced": false,
+      "path": "select/pl_01_乙女よ大志を抱け!!_天海春香_(CV_中村繪里子).txt"
+    }
+  ]
+}
